@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "name": "whether",
+  "version": "1.0.0",
+  "description": "creating weather nodejs app",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veer Singh",
+  "license": "ISC"
+}
